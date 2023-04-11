@@ -6,4 +6,6 @@ public class Day3Demo {
 			System.out.println("Gethub day3...");
 
 }
+	
+	String lastName = "Cena";
 }
